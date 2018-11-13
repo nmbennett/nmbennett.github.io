@@ -24,9 +24,8 @@ github_username:  nmbennett
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
-remote_theme: fongandrew/hydeout
-paginate: 5
+theme: jekyll-theme-dinky
+
 plugins:
   - jekyll-feed
 
