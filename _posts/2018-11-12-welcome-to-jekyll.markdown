@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "This Site is Under Construction"
 date:   2018-11-12 22:11:18 -0800
 categories: jekyll update
