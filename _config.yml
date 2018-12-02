@@ -25,8 +25,8 @@ github_username:  nmbennett
 #plugins: [jekyll-paginate]
 paginate: 5
 # Build settings
-#markdown: kramdown
-theme: jekyll-theme-hydeout
+markdown: kramdown
+#theme: jekyll-theme-hydeout
 remote_theme: nmbennett/hydeout
 plugins:
   - jekyll-feed
