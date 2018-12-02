@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring the Causes of Establishment-Level ICE Raids"
+title:  "Establishment-Level ICE Raids: Causes and Consequences"
 date:   2018-10-12 22:11:18 -0800
 #categories: jekyll update
 ---
