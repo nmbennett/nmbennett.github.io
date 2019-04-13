@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-My most recent CV can be found [here](nmbennett.github.io/assets/NMB_resume_noabs_Feb2019.pdf). 
+My most recent CV can be found [here]({{ site.url }}/assets/NMB_resume.pdf). 
