@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Establishment-Level ICE Raids: Causes and Consequences"
+title:  "Understanding Establishment-Level ICE Raids"
 date:   2018-10-12 22:11:18 -0800
 #categories: jekyll update
 ---
+I use data on Immigration and Customs Enforcement work-site audits (ICE raids) to evaluate the extent to which Secure Communities and local law enforcement impacted the frequency and effectiveness of ICE raids. Secure Communities require that counties share the fingerprints of arrested individuals with ICE so that ICE can detain, interview, and deport arrested individuals that are not living legally in the US. We do not actually know if Secure Communities achieved their policy goal of improving ICE’s work due to an, until now, lack of information on ICE raids. Evidence suggests that Secure Community roll-out reduces the number of ICE raids in a given county but there is little change in the number of undocumented migrants found in these raids. Further, given that information about arrested individuals is passed from the sheriff’s office to ICE, I further explore the relationship between Secure Communities and ICE raids by looking at how county-level sheriff elections and ICE raids are related with a regression discontinuity design. That is, I compare the number of ICE raids in counties where democratic sheriffs are elected by a thin margin with raids in counties where republican sheriffs are elected by a thin margin. 
