@@ -29,6 +29,8 @@ markdown: kramdown
 remote_theme: nmbennett/hydeout
 plugins:
   - jekyll-feed
+params:
+  - ShowDatesOnPosts: false
 
 
 # Exclude from processing.
