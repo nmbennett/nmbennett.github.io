@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-My CV can be found [here]({{ site.url }}/assets/NMB_resume.pdf).
+You can find my [CV here]({{ site.url }}/assets/NMB_resume.pdf).
