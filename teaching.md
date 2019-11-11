@@ -19,3 +19,5 @@ Upper Division Courses
 Lower Division Courses
 - Global Economy- [Fall 2018]({{ site.url }}/assets/Fall2018.pdf)
 - Basic Economics- [Fall 2015]({{ site.url }}/assets/Fall2015.pdf), and [Fall 2015]({{ site.url }}/assets/Fall2015_2.pdf)
+
+You can also download the full set of teaching evaluations [here]({{ site.url }}/assets/AllEvaluations.pdf). 
