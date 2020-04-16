@@ -8,6 +8,8 @@ permalink: /research/
 
 [Latest Draft]({{ site.url }}/assets/JMPDraft.pdf).
 
+[Here is a python script for scraping sheriff election data in Georgia.]({{ site.url }}/assets/Georgia.py)
+
 There is substantial controversy, but little information, about Immigration and Custom Enforcement’s (ICE’s) efforts to find and deport undocumented individuals living in the United States. Data on ICE’s establishment-level audits has, until now, been scarce, making it difficult to assess what instigates them, their importance in ICE’s overall domestic operations, and what impacts they have on economic outcomes. I use new data from a Freedom of Information Act request on ICE's establishment audits to evaluate their causes and consequences. I find that Secure Community roll-out, which facilitates jail audits, reduces the number of establishment ICE audits by seven percent at the county level. Further, I find little evidence that establishment audits affect formal sector employment rates among Hispanics or non-Hispanics at the county level. I also find little indication that establishment audits affect local crime rates. While establishment audits frequently receive media attention and may have important direct implications for audited employers and their workers, my findings suggest that they have limited broader economic impact.
 
 ### Pulling Up Stakes During Employment Aches: Unemployment Insurance and Migration
