@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Understanding Establishment-Level ICE Audits (JMP)
+### Understanding Establishment-Level ICE Audits
 
 [Latest Draft]({{ site.url }}/assets/JMPDraft.pdf).
 

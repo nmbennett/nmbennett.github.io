@@ -1,7 +1,7 @@
 ---
-layout: category
-title: Teaching
-permalink: /Teaching/
+#layout: category
+#title: Teaching
+#permalink: /Teaching/
 ---
 
 **Instructor**
